@@ -1,6 +1,6 @@
-In my GitHub, you will find the source code used of my publications (listed below) that include strategies for compression and acceleration of deep networks and compact representations for large datasets. Alternatively, you can check these projects and publications on my [homepage](https://homepages.dcc.ufmg.br/~arturjordao/).
+In my GitHub, you will find the source code used in my publications (listed below) that include strategies for compression and acceleration of deep networks and compact representations for large datasets. Alternatively, you can check these projects and publications on my [homepage](https://homepages.dcc.ufmg.br/~arturjordao/).
 
-<img src="Figures/1.png" width="56%"/> <img src="Figures/2.png" width="50%"/>
+<img src="Figures/1.png" width="40%"/> <img src="Figures/2.png" width="40%"/>
 
 ### Selected Publications
 * Artur Jordão, Maiko Lie, Fernando Yamada, William Robson Schwartz: [DepthWise Neural Architecture Search.](https://arxiv.org/pdf/2004.11178.pdf) (Accepted for publication). 
