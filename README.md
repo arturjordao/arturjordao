@@ -13,4 +13,4 @@ In: Neurocomputing, 2020. [GitHub](https://github.com/arturjordao/PruningNeuralN
 In: IEEE Journal of Selected Topics In Signal Processing, 2020. [GitHub](https://github.com/arturjordao/DepthWisePruning)
 * Artur Jordão, Ricardo Barbosa Kloss, William Robson Schwartz: [Latent HyperNet Exploring the Layers](https://homepages.dcc.ufmg.br/~arturjordao/Files/Papers/IJCNN_2018.pdf). In: International Joint Conference on Neural Networks (IJCNN), 2018, Rio de Janeiro, Brazil. [GitHub](https://github.com/arturjordao/LatentHyperNet)
 
-<a href="https://github.com/simonw/simonw/actions"><img src="Figures/badge.svg" align="right" alt="Build README"></a>
+<img src="/Figures/badge.svg" align="right" alt="Build README">
