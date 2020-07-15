@@ -1,4 +1,4 @@
-In my GitHub, you will find the source code used in my publications (listed below) that include strategies for compression and acceleration of deep networks and compact representations for large datasets. Alternatively, you can check these projects and publications on my [homepage](https://homepages.dcc.ufmg.br/~arturjordao/).
+In my GitHub, you will find the source code used in my publications (listed below) that include strategies for compression and acceleration of deep networks, and compact representations for large datasets. Alternatively, you can check these projects and publications on my [homepage](https://homepages.dcc.ufmg.br/~arturjordao/).
 
 <!--
 <img src="Figures/1.png" width="40%"/> <img src="Figures/2.png" width="40%"/>
@@ -11,6 +11,12 @@ In: International Conference on Pattern Recognition (ICPR), 2020, Milan, Italy. 
 In: Neurocomputing, 2020. [GitHub](https://github.com/arturjordao/PruningNeuralNetworks)
 * Artur Jordão, Maiko Lie, William Robson Schwartz: [Discriminative Layer Pruning for Convolutional Neural Networks.](https://homepages.dcc.ufmg.br/~arturjordao/Files/Papers/JSTSP_2019.pdf) 
 In: IEEE Journal of Selected Topics In Signal Processing, 2020. [GitHub](https://github.com/arturjordao/DepthWisePruning)
+* Artur Jordão, Maiko Lie, Victor Hugo Cunha de Melo, William Robson Schwartz: [Covariance-free Partial Least Squares: An Incremental Dimensionality Reduction Method.](https://arxiv.org/pdf/1910.02319.pdf) 
+In: 	arXiv, 2020. [GitHub](https://github.com/arturjordao/IncrementalDimensionalityReduction)
 * Artur Jordão, Ricardo Barbosa Kloss, William Robson Schwartz: [Latent HyperNet Exploring the Layers](https://homepages.dcc.ufmg.br/~arturjordao/Files/Papers/IJCNN_2018.pdf). In: International Joint Conference on Neural Networks (IJCNN), 2018, Rio de Janeiro, Brazil. [GitHub](https://github.com/arturjordao/LatentHyperNet)
 
-<img src="https://github.com/arturjordao/arturjordao/blob/master/Figures/badge.svg" align="right" alt="Build README">
+Word cloud illustrating the content of my papers.
+
+<img src="https://github.com/arturjordao/arturjordao/blob/master/Figures/wordCloud.png">
+
+<img src="https://github.com/arturjordao/arturjordao/blob/master/Figures/badge.svg" alt="Build README" align="right">
