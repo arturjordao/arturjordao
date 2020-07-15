@@ -17,6 +17,6 @@ In: 	arXiv, 2020. [GitHub](https://github.com/arturjordao/IncrementalDimensional
 
 Word cloud illustrating the content of my papers.
 
-<img src="https://github.com/arturjordao/arturjordao/blob/master/Figures/wordCloud.png">
+<img src="https://github.com/arturjordao/arturjordao/blob/master/Figures/wordCloud2.png">
 
 <img src="https://github.com/arturjordao/arturjordao/blob/master/Figures/badge.svg" alt="Build README" align="right">
