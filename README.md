@@ -1,4 +1,4 @@
-In my GitHub, you will find the source code used in my publications (listed below) that include strategies for compression and acceleration of deep networks, and compact representations for large datasets. Alternatively, you can check these projects and publications on my [homepage](https://homepages.dcc.ufmg.br/~arturjordao/).
+In my GitHub, you will find the source code used in my publications (listed below) that include strategies for compression and acceleration of deep networks, and compact representations for large datasets. Alternatively, you can check these projects and publications on my [homepage](http://arturjordao.github.io/).
 
 <!--
 <img src="Figures/1.png" width="40%"/> <img src="Figures/2.png" width="40%"/>
