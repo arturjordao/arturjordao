@@ -5,7 +5,7 @@ In my GitHub, you will find the source code used in my publications (listed belo
 -->
 
 ### Selected Publications
-* Artur Jordão, George Araújo, Helena de Almeida Maia and Hélio Pedrini: [When Layers Play the Lottery, all Tickets Win at Initialization](https://arxiv.org/pdf/2301.10835.pdf). In: International Conference on Computer Vision (ICCV), 2023, Paris, France.
+* Artur Jordão, George Araújo, Helena de Almeida Maia and Hélio Pedrini: [When Layers Play the Lottery, all Tickets Win at Initialization](https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Jordao_When_Layers_Play_the_Lottery_all_Tickets_Win_at_Initialization_ICCVW_2023_paper.pdf). In: International Conference on Computer Vision (ICCV), 2023, Paris, France.
 * Artur Jordão and Hélio Pedrini: [On the Effect of Pruning on Adversarial Robustness](https://openaccess.thecvf.com/content/ICCV2021W/AROW/papers/Jordao_On_the_Effect_of_Pruning_on_Adversarial_Robustness_ICCVW_2021_paper.pdf). In: International Conference on Computer Vision (ICCV), 2021, Virtual. [Poster](https://iccv21-adv-workshop.github.io/posters/2.pdf).
 * Artur Jordão, Maiko Lie, Victor Hugo Cunha de Melo, William Robson Schwartz: [Covariance-free Partial Least Squares: An Incremental Dimensionality Reduction Method](https://openaccess.thecvf.com/content/WACV2021/papers/Jordao_Covariance-Free_Partial_Least_Squares_An_Incremental_Dimensionality_Reduction_Method_WACV_2021_paper.pdf).
 In: Winter Conference on Applications of Computer Vision (WACV), 2021, Hawaii. [GitHub](https://github.com/arturjordao/IncrementalDimensionalityReduction)
