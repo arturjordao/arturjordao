@@ -5,7 +5,7 @@ In my GitHub, you will find the source code used in my publications (listed belo
 -->
 
 ### Selected Publications
-* Gustavo Henrique do Nascimento, Ian Pons, Anna H. Reali Costa and Artur Jordao: Pruning Everything, Everywhere, All at Once. In: International Joint Conference on Neural Networks (IJCNN), 2025, Rome, Italy. [GitHub](https://github.com/NascimentoG/PruningEverything)
+* Gustavo Henrique do Nascimento, Ian Pons, Anna H. Reali Costa and Artur Jordao: [Pruning Everything, Everywhere, All at Once](https://arxiv.org/abs/2506.04513). In: International Joint Conference on Neural Networks (IJCNN), 2025, Rome, Italy. [GitHub](https://github.com/NascimentoG/PruningEverything)
 * Leandro Giusti Mugnaini, Bruno Yamamoto, Lucas Lauton, Victor Zacarias, Edson Bollis, Lucas Pellicer, Anna H. Reali Costa and Artur Jordao: [Efficient LLMs with AMP: Attention Heads and MLP Pruning](https://arxiv.org/abs/2504.21174). In: International Joint Conference on Neural Networks (IJCNN), 2025, Rome, Italy. [GitHub](https://github.com/c2d-usp/Efficient-LLMs-with-AMP/)
 * Ian Pons, Bruno Yamamoto, Anna H. Reali Costa, Artur Jordão: [Effective Layer Pruning Through Similarity Metric Perspective](https://openreview.net/pdf?id=7DPNITf7ui). In: International Conference on Machine Learning (ICML), 2024, Viena, Áustria. [GitHub](https://github.com/IanPons/CKA-Layer-Pruning)
 * Artur Jordão, George Araújo, Helena de Almeida Maia and Hélio Pedrini: [When Layers Play the Lottery, all Tickets Win at Initialization](https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Jordao_When_Layers_Play_the_Lottery_all_Tickets_Win_at_Initialization_ICCVW_2023_paper.pdf). In: International Conference on Computer Vision (ICCV), 2023, Paris, France.
