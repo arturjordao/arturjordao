@@ -13,8 +13,18 @@ In my GitHub, you will find the source code used in my publications (listed belo
 * Ian Pons, Bruno Yamamoto, Anna H. Reali Costa, Artur Jordão. [Effective Layer Pruning Through Similarity Metric Perspective](https://openreview.net/pdf?id=7DPNITf7ui). In: International Conference on Machine Learning (ICML), 2024, Viena, Áustria. [GitHub](https://github.com/IanPons/CKA-Layer-Pruning)
 * Artur Jordão, George Araújo, Helena de Almeida Maia and Hélio Pedrini. [When Layers Play the Lottery, all Tickets Win at Initialization](https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Jordao_When_Layers_Play_the_Lottery_all_Tickets_Win_at_Initialization_ICCVW_2023_paper.pdf). In: International Conference on Computer Vision (ICCV), 2023, Paris, France.
 
-Word cloud illustrating the content of my papers.
+### Short demonstrations of my current research
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github.com/arturjordao/arturjordao/blob/master/Figures/wordCloud2.png">
+https://github.com/user-attachments/assets/3198430b-1d28-4a95-9d99-06e90dc62410
 
-<img src="https://github.com/arturjordao/arturjordao/blob/master/Figures/badge.svg" alt="Build README" align="right">
+</td>
+<td width="50%">
+
+https://github.com/user-attachments/assets/a7a41bf8-9775-40b2-aa5b-88f675354c81
+
+</td>
+</tr>
+</table>
